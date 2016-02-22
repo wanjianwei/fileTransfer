@@ -1,0 +1,66 @@
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "0sh-oB-HZB"; */
+"0sh-oB-HZB.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "7xJ-gA-4Ig"; */
+"7xJ-gA-4Ig.normalTitle" = "Button";
+
+/* Class = "UITableViewController"; title = "设置"; ObjectID = "97x-om-eqV"; */
+"97x-om-eqV.title" = "设置";
+
+/* Class = "UILabel"; text = "文件名称:"; ObjectID = "GLA-wP-evH"; */
+"GLA-wP-evH.text" = "文件名称:";
+
+/* Class = "UIButton"; normalTitle = "我要获取"; ObjectID = "IH6-Cq-oBg"; */
+"IH6-Cq-oBg.normalTitle" = "我要获取";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kbl-ZE-61v"; */
+"Kbl-ZE-61v.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "注册账户"; ObjectID = "MbR-tB-DWE"; */
+"MbR-tB-DWE.normalTitle" = "注册账户";
+
+/* Class = "UITableViewController"; title = "本地文件列表"; ObjectID = "O8c-LG-2IS"; */
+"O8c-LG-2IS.title" = "本地文件列表";
+
+/* Class = "UIButton"; normalTitle = "注册"; ObjectID = "OFm-cD-RRC"; */
+"OFm-cD-RRC.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "文件简述:"; ObjectID = "Tda-Ne-Tfx"; */
+"Tda-Ne-Tfx.text" = "文件简述:";
+
+/* Class = "UIButton"; normalTitle = "忘记密码"; ObjectID = "Xh3-B9-D8K"; */
+"Xh3-B9-D8K.normalTitle" = "忘记密码";
+
+/* Class = "UIViewController"; title = "开启/关闭分享"; ObjectID = "ZcR-J7-oFQ"; */
+"ZcR-J7-oFQ.title" = "开启/关闭分享";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dnC-K2-zBQ"; */
+"dnC-K2-zBQ.text" = "Label";
+
+/* Class = "UINavigationController"; title = "首页"; ObjectID = "f2T-fV-wGO"; */
+"f2T-fV-wGO.title" = "首页";
+
+/* Class = "UIButton"; normalTitle = "我要分享"; ObjectID = "f7A-Fm-c7J"; */
+"f7A-Fm-c7J.normalTitle" = "我要分享";
+
+/* Class = "UIViewController"; title = "注册"; ObjectID = "jut-og-Rk1"; */
+"jut-og-Rk1.title" = "注册";
+
+/* Class = "UILabel"; text = "|"; ObjectID = "kCF-wW-1GB"; */
+"kCF-wW-1GB.text" = "|";
+
+/* Class = "UIButton"; normalTitle = "保存"; ObjectID = "mQU-dk-XW3"; */
+"mQU-dk-XW3.normalTitle" = "保存";
+
+/* Class = "UIViewController"; title = "登录页面"; ObjectID = "mSE-gL-dti"; */
+"mSE-gL-dti.title" = "登录页面";
+
+/* Class = "UIViewController"; title = "文件添加"; ObjectID = "pSh-3P-NCU"; */
+"pSh-3P-NCU.title" = "文件添加";
+
+/* Class = "UITableViewController"; title = "文件目录界面"; ObjectID = "sdo-mM-3Z4"; */
+"sdo-mM-3Z4.title" = "文件目录界面";
+
+/* Class = "UILabel"; text = "欢迎来到WIFITransfer"; ObjectID = "tCv-CT-fsX"; */
+"tCv-CT-fsX.text" = "欢迎来到WIFITransfer";
